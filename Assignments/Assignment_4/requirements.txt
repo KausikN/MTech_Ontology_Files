@@ -1,2 +1,0 @@
-Owlready2==0.37
-rdflib==6.1.1
