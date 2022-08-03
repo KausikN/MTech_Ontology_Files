@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Pe1">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/R7H6oHgu21jWZYvhGBbW5Y9"/>
+    <ns1:manages rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Pl1"/>
+    <ns1:oversees rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Cu1"/>
+    <ns1:processes rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Ot1"/>
+    <ns1:text>
+		Kamal Hassan H
+	</ns1:text>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Em4">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/RDIC5vfXXOHbR2Y4fNUD93E"/>
+    <ns1:maintains rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Ma1"/>
+    <ns1:text>
+		Sergey Brin
+	</ns1:text>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Pl2">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/R7zjqcAI6Y8bP3k6B0Y4EVK"/>
+    <ns1:text>
+		KGF Area 51
+	</ns1:text>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#FS3">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/RC9M2hdfx4Wm9hPoDFqXh9P"/>
+    <ns1:hasPaymentAmount rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Mo2"/>
+    <ns1:text>
+		Payment 1aEfaswS
+	</ns1:text>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Em5">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/R9GNYir55KhUrecWPNcLY7i"/>
+    <ns1:processes rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Mo1"/>
+    <ns1:text>
+		Patrick Gelsinger
+	</ns1:text>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#FS1">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/RCJYCjAImEkxH9sfqnAW5DC"/>
+    <ns1:text>
+		</ns1:text>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#FS4">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/R94q7B8QaYMsKrmDN6a0r59"/>
+    <ns1:havingPayment rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#FS3"/>
+    <ns1:text>
+		1234
+	</ns1:text>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#FS5">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/R9E9oMSk1WDyJWwWqe0IMLU"/>
+    <ns1:text>
+		</ns1:text>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Em3">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/RBURugVHBoEYWdPAhvbbaSH"/>
+    <ns1:text>
+		George_Bush
+	</ns1:text>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Ma1">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/R9hFqoDxO5i1Mwiu9nv6dut"/>
+    <ns1:text>
+		Phoenix Mall ATM
+	</ns1:text>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Pl1">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/RBl5y8zYcaCdGL3tKdrck4L"/>
+    <ns1:offers rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Pl2"/>
+    <ns1:text>
+		ICICI Bank Chennai
+	</ns1:text>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Mo3">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/RDaPa87Fi2RPD9TeS51ZdjU"/>
+    <ns1:text>
+			1000
+		</ns1:text>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Mo1">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/RDqkpew5LixolaWc7CIixUd"/>
+    <ns1:text>
+		50000
+	</ns1:text>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#FS6">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/RCJYCjAImEkxH9sfqnAW5DC"/>
+    <ns1:text>
+			</ns1:text>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Ot1">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/RDuPkZ0b8iyErNnyUskrNVg"/>
+    <ns1:text>
+		Login Issue
+	</ns1:text>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#FS7">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/R43HI7MepwAxTshb7MCxOk"/>
+    <ns1:text>
+		1000
+	</ns1:text>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Ot2">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/R8Y9qtpECqAs5ILBlkL8MXU"/>
+    <ns1:belongsTo rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Cu1"/>
+    <ns1:text>
+		Account 1S2f2edA
+	</ns1:text>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Em1">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/RDjFTJaA24w8BBjTUKe1MqO"/>
+    <ns1:maintains rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#FS1"/>
+    <ns1:processes rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#FS2"/>
+    <ns1:text>
+		Elon Musk
+	</ns1:text>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Cu1">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/RCg3840rAGL3ScNqrxMjwhK"/>
+    <ns1:borrows rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#FS1"/>
+    <ns1:text>
+		Karthik S
+	</ns1:text>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#FS2">
+    <rdf:type rdf:resource="urn:webprotege:ontology:f8af5f74-014c-411c-bb58-0e885c2d99a4#VehicleLoan"/>
+    <ns1:text>
+		Cybertruck Loan d9a21S22
+	</ns1:text>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Mo4">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/RDaPa87Fi2RPD9TeS51ZdjU"/>
+    <ns1:text>
+				8000
+			</ns1:text>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Cu2">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/R7UYSurF8olG4I7qbEGX6ey"/>
+    <ns1:deposits rdf:resource="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#FS3"/>
+    <ns1:text>
+		Ramesh A
+	</ns1:text>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Em2">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/RCO0O51gy2TN7APskvYJt4D"/>
+    <ns1:text>
+		Larry Page
+	</ns1:text>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Mo2">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/RDaPa87Fi2RPD9TeS51ZdjU"/>
+    <ns1:text>
+		2000
+	</ns1:text>
+  </rdf:Description>
+</rdf:RDF>

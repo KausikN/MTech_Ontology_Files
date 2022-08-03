@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://webprotege.stanford.edu/RCJYCjAImEkxH9sfqnAW5DC">
+    <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9bVkpCPp8HZ64o3I1A4TWI"/>
+    <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9E9oMSk1WDyJWwWqe0IMLU"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Em4">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/R9fIWiECw9t2GpppsTD44Lo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Mo3">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#FS5">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Cu2">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/R9fIWiECw9t2GpppsTD44Lo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Mo2">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://webprotege.stanford.edu/RDqkpew5LixolaWc7CIixUd">
+    <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCJYCjAImEkxH9sfqnAW5DC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://webprotege.stanford.edu/R43HI7MepwAxTshb7MCxOk">
+    <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9E9oMSk1WDyJWwWqe0IMLU"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="Output/Output/RDF_Extracted.owl">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Ma1">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#FS2">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://inferrences">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Em1">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/R9fIWiECw9t2GpppsTD44Lo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Em3">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/R9fIWiECw9t2GpppsTD44Lo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Em2">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/R9fIWiECw9t2GpppsTD44Lo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#FS1">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Em5">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/R9fIWiECw9t2GpppsTD44Lo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#FS6">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Mo4">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Ot1">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#FS4">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Pl2">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://webprotege.stanford.edu/RDaPa87Fi2RPD9TeS51ZdjU">
+    <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCJYCjAImEkxH9sfqnAW5DC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Pl1">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#FS3">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Pe1">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/R9fIWiECw9t2GpppsTD44Lo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Cu1">
+    <rdf:type rdf:resource="http://webprotege.stanford.edu/R9fIWiECw9t2GpppsTD44Lo"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#Mo1">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.semanticweb.org/cseka/ontologies/2022/3/banking#FS7">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  </rdf:Description>
+</rdf:RDF>

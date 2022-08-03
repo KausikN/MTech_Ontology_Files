@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Banking>
+	<!-- Place -->
+	<Branch id="Pl1"
+		offers="Pl2">
+		ICICI Bank Chennai
+	</Branch>
+	<GoldStorage id="Pl2">
+		KGF Area 51
+	</GoldStorage>
+	<!-- Place -->
+
+	<!-- Person -->
+	<Manager id="Pe1"
+		manages="Pl1"
+		oversees="Cu1"
+		processes="Ot1">
+		Kamal Hassan H
+	</Manager>
+	<!-- Employee -->
+	<Cashier id="Em1"
+		maintains="FS1"
+		processes="FS2">
+		Elon Musk
+	</Cashier>
+	<CustomerCare id="Em2">
+		Larry Page
+	</CustomerCare>
+	<Security id="Em3">
+		George_Bush
+	</Security>
+	<Technician id="Em4"
+		maintains="Ma1">
+		Sergey Brin
+	</Technician>
+	<Teller id="Em5"
+		processes="Mo1">
+		Patrick Gelsinger
+	</Teller>
+	<!-- Employee -->
+	<!-- Customer -->
+	<Borrower id="Cu1"
+		borrows="FS1">
+		Karthik S
+	</Borrower>
+	<Depositor id="Cu2"
+		deposits="FS3">
+		Ramesh A
+	</Depositor>
+	<!-- Customer -->
+	<!-- Person -->
+
+	<!-- Financial Service -->
+	<Deposit id="FS1">
+		<Cash id="Mo3">
+			1000
+		</Cash>
+	</Deposit>
+	<VehicleLoan id="FS2">
+		Cybertruck Loan d9a21S22
+	</VehicleLoan>
+	<Payment id="FS3"
+		hasPaymentAmount="Mo2">
+		Payment 1aEfaswS
+	</Payment>
+	<PaymentNumber id="FS4"
+		havingPayment="FS3">
+		1234
+	</PaymentNumber>
+	<Transaction id="FS5">
+		<Deposit id="FS6">
+			<Cash id="Mo4">
+				8000
+			</Cash>
+		</Deposit>
+	</Transaction>
+	<Withdrawal id="FS7">
+		1000
+	</Withdrawal>
+	<!-- Financial Service -->
+
+	<!-- Machine-->
+	<ATM id="Ma1">
+		Phoenix Mall ATM
+	</ATM>
+	<!-- Machine-->
+
+	<!-- Money -->
+	<Cheque id="Mo1">
+		50000
+	</Cheque>
+	<Cash id="Mo2">
+		2000
+	</Cash>
+	<!-- Money -->
+
+	<!-- Other -->
+	<Redressal id="Ot1">
+		Login Issue
+	</Redressal>
+	
+	<LoanAccount id="Ot2"
+		belongsTo="Cu1">
+		Account 1S2f2edA
+	</LoanAccount>
+	<!-- Other -->
+</Banking>
